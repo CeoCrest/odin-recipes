@@ -1,1 +1,2 @@
 # odin-recipes
+This project will apply the basic concepts of html to create a recipes website that will link to different cooking webpages. It is also an excercise to learn to commit to a repo in github
