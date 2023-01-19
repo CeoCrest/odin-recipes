@@ -1,0 +1,35 @@
+div {
+    text-align: center; 
+}
+.foto{
+    height: 240px;
+    width: auto;  
+}
+
+p {
+    color: rgb(37, 43, 61);
+    text-decoration: salmon;
+    font-family: fantasy;
+    font-size:large;
+}
+h1 {
+    text-align: center;
+    color: goldenrod;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.page{
+    
+        color: #fff;
+        background: -webkit-linear-gradient(-70deg, #faba3081 30%, rgba(0, 0, 0, 0) 30%), url('https://i.kym-cdn.com/entries/icons/original/000/032/330/Screen_Shot_2020-01-06_at_12.12.46_PM.jpg');
+        background: -o-linear-gradient(-70deg, #faba3081 30%, rgba(0, 0, 0, 0) 30%), url('https://i.kym-cdn.com/entries/icons/original/000/032/330/Screen_Shot_2020-01-06_at_12.12.46_PM.jpg');
+        background: -moz-linear-gradient(-70deg, #faba3081 30%, rgba(0, 0, 0, 0) 30%), url('https://i.kym-cdn.com/entries/icons/original/000/032/330/Screen_Shot_2020-01-06_at_12.12.46_PM.jpg');
+        background: linear-gradient(-70deg, #faba3081 30%, rgba(0, 0, 0, 0) 30%), url('https://i.kym-cdn.com/entries/icons/original/000/032/330/Screen_Shot_2020-01-06_at_12.12.46_PM.jpg');
+      background-size: cover;
+      background-position: 50% 21%;
+      text-align: right;
+    }
+#gif{
+    height: 50px;
+    width: auto;
+}
